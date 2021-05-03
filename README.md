@@ -9,4 +9,4 @@ Contact Management System is a User Interface which will create the contact, Sea
 3. The Python library used here are tkinter,sqlite3, datetime, re module, tkinter messagebox.
 4. This code is used only to read and understand the logic. 
    Copying this code is Strictly Prohibited by Nishanth T. 
-5. © 2021 Copyright Nishanth T (Junior Python Developer).
+5. © 2020 Copyright Nishanth T (Junior Python Developer).
