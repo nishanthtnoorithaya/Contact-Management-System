@@ -1,6 +1,6 @@
 # Contact-Management-System
 
-Contact Management System is a User Interface which will create the contact, Search the contact, View the contact and Edit the contact. 
+Contact Management System is a Graphical User Interface which is done on Python Tkinter. it has some features like to create the contact, Search the contact, View the contact and Edit the contact. 
 
 # Description. 
 
